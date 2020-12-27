@@ -3,6 +3,7 @@ name: Sito di Greta Proietti
 title: Sito di Greta Proietti
 # see https://ogp.me/#types
 type: website
-url: https://gretaproietti.netlify.app/
+#url: https://gretaproietti.netlify.app/
+url: https://www.greta.proietti.name
 image: https://res.cloudinary.com/maox17/image/upload/v1608883596/gremapro/logo_300_mmeeaj.png
 description: Perchè il babbo è grullo forte…
